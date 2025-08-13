@@ -1,35 +1,26 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
-</div>
+<div align="center" width="50">
 
-<h3>ABOUT ME</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-I'm a versatile developer with experience in building web platforms. \
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/images/coding.gif?raw=true" alt="Coding" width="60%"/> <br>
 
-
-
-<h3>EXPERIENCE</h3>
-
-I have experience working in both private companies and as a freelancer.
-
-I've spent most of my time as a developer working with:
-
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
-
-I also have experience with:
-
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
-
-<h3>MY FRIEND</h3>
-has a message for you...
+<h1>Abdullah Elnagar</h1>
+<h3> Software Developer | CS Student</h3>
 
 <br>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
+
+![tools_I_use](https://img.shields.io/badge/-🚀%20Tools%20I%20use-orange)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-elnagar-000b56281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elshabah_10?igsh=Z3hlbG42cm4xd3Vj)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AsPsiAVU6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalnagar2010@gmail.com)
