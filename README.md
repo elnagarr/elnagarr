@@ -1,4 +1,4 @@
-
+<div align="center" width="50">
 <h1>Abdullah Elnagar</h1>
 <h3> Software Developer | CS Student</h3>
 
