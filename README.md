@@ -15,6 +15,4 @@
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-elnagar-000b56281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elshabah_10?igsh=Z3hlbG42cm4xd3Vj)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AsPsiAVU6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalnagar2010@gmail.com)
